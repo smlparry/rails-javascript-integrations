@@ -56,6 +56,10 @@ If you notice a mistake, room for improvement, or have questions, issues and pul
 
 This version uses the Rails asset pipeline, plain ES5 JavaScript, the jQuery that ships with Rails, and Vue.js to make componentization much simpler.
 
+## Setup
+
+Less than 1 minute using [vuejs-templates/simple](https://github.com/vuejs-templates/simple) as a reference.
+
 ## Usage
 
 Just launch Rails normally:
